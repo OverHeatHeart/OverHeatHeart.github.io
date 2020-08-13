@@ -11,7 +11,7 @@ Jekyll requires blog post files to be named according to the following format:
 `YEAR-MONTH-DAY-title.MARKUP`
 
 $$sin$$
-$sin$
+$$sin$$  
 $$\dot{a}$$, $$\ddot{a}$$, $$\acute{a}$$, \grave{a}$$  
 $$\surd$$, $$\sqrt{2}$$, $$\sqrt[n]{}$$, $$\sqrt[3]{x^3+y^3$$ $$\over 2$$}
 
